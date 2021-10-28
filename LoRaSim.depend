@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1634913099 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\adr.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	"type.h"
+
+1635463389 c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\type.h
+
+1635463389 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\background.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	"type.h"
+
+1634825304 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\dofg.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	"type.h"
+
+1634825304 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\dorg.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	"type.h"
+
+1635463389 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\exploitgreedy.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	"type.h"
+
+1635463389 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\exploitlucb.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	"type.h"
+
+1635463389 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\exploitucb.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	<dos.h>
+	"type.h"
+
+1635463389 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\explorearms.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	"type.h"
+
+1635462956 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	"type.h"
+
+1635463410 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\lucb.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	"type.h"
+
+1635461735 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	"type.h"
+
+1634913099 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\problem.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	"type.h"
+
+1634913099 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\ucb1.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	"type.h"
+
+1635429440 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\connector.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"type.h"
+
+1635463389 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\exploitadr.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	<dos.h>
+	"type.h"
+
+1635176246 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\stats.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	"type.h"
+
+1635260557 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\exp3.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	"type.h"
+
+1635463389 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\exploitexp3.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<float.h>
+	<dos.h>
+	"type.h"
+
+1635462574 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\lora.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	"type.h"
+
+1635463389 source:c:\users\gjnk0876\documents\my files\simulation\c\lorasim\lorasim\mab.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<float.h>
+	<string.h>
+	"type.h"
+
